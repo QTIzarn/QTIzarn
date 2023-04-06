@@ -1,16 +1,29 @@
-### Hi there 👋
+# Just a Developer
 
-<!--
-**QTIzarn/QTIzarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a German Developer trying their best!
 
-Here are some ideas to get you started:
+## Languages
+<p>
+<a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/DE@2x.png?raw=true" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/US@2x.png?raw=true" /></a>
+&nbsp;&nbsp;
+(<a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/FR@2x.png?raw=true" />)</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+🟩🟩🟩🟩🟩 ♨️**Java** 
+
+🟩🟩🟩🟩🟩 🥱**C#** 
+
+🟩🟩🟥🟥🟥 💀**C++** 
+
+&nbsp;&nbsp;
+
+&nbsp;&nbsp;
+
+&nbsp;&nbsp;
+
+&nbsp;&nbsp;
+
+[sᴇᴄʀᴇᴛ ʟɪɴᴋ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

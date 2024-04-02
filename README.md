@@ -1,7 +1,5 @@
 # Just a Developer
 
-Just a German Developer trying their best!
-
 ## Languages
 <p>
 <a href="#"><img src="https://github.com/yammadev/flag-icons/raw/master/png/DE@2x.png?raw=true" /></a>
